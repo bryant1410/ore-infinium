@@ -34,7 +34,7 @@ eg things like block sending are very inefficient, as I
 work on getting other features in. It also currently spams packets like
 crazy, when it should be aiming for 20-30 packets/s each for client or server.
 
-#Platforms
+# Platforms
 All desktop platforms (which can run the JVM) (Linux with OpenJDK,
 Windows, macOS).
 
